@@ -1,0 +1,3 @@
+notification_email = "yoshiyukisato0304@gmail.com"
+vpc_id             = "vpc-014a27903827ac83e"
+ssh_key            = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQChnyneFJashcIZFS1kJZiu69d9IwJfJUqRBpqV2jimnVdlA3rB7Fy3aCMfKiCg8GqtRoZ9EMxu+EXdFrX4bHlTj7nFIGli2QiLfaXwAyVU3IaY2MR+JAhk9iISOKGXDO2FkBV3SiPAxctjKWkh3wxzEVMYZCIR2VtYKuHHbm6NZxpJWcH4PI7QoRasq/lLcKntyJ5t7VHMaDF160Tn6XARGf5QKA0sHl9JFBEwAyXpyjikbu6JJuVGut2hhtdO8QFXsfmVAZpRSXclE/rV3EElq/UE9Z4I9WpCck2zU4bjMQxPKAeIzp567wakxzBB/ACI6gWwDgDHJmZjie7pfd6YdvAIwFc+zIZhtKtFdCsAcrB7vTr93+i996WjkLkYy/MKjBboUlItXD7DiXMvpxdtaiW7fSeL8lajio2fEh+DUa3Xxw9lsuRCFLtMMFJZcZNMF9PWmYq0ZaYZOjMaSAkjaNlHPLjBkteX5QM8rxxbMcnm0xqPujygR31SLOAuCvk= satouyoshiyuki@satouyoshisaiwainoMacBook-Air.local"
