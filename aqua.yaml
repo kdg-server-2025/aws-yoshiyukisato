@@ -13,3 +13,4 @@ registries:
 packages:
 - name: hashicorp/terraform@v1.11.4
 - name: aws/aws-cli@2.27.12
+- name: theseus-rs/postgresql-binaries@17.5.0
